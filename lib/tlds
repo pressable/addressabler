@@ -7,6 +7,12 @@
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/ .
 
+// ===BEGIN CUSTOM DOMAINS===
+
+hospital
+
+// ===END CUSTOM DOMAINS===
+
 // ===BEGIN ICANN DOMAINS===
 
 // ac : https://en.wikipedia.org/wiki/.ac
